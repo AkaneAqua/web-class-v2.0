@@ -92,7 +92,7 @@ const Navbar = () => {
         <ul className="mt-2 flex gap-5">
           <li className="mb-4">
             <a
-              href="#"
+              href="#Home"
               className="text-white opacity-80 text-[1rem] font-semibold"
             >
               Home

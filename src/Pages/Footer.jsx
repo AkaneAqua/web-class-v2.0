@@ -40,7 +40,7 @@ const Footer = () => {
                     href=""
                     class="hover:underline"
                   >
-                    -
+                  
                   </a>
                 </li>
               </ul>
@@ -52,7 +52,7 @@ const Footer = () => {
               <ul class="text-gray-400 dark:text-gray-400 font-medium">
                 <li class="mb-2">
                   <a
-                    href="https://www.instagram.com/rplthreee_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+                    href=""
                     class="hover:underline "
                   >
                     Instagram
